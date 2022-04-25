@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2ed486968f394d64b06921cf1f093fa5" Name="Diagram1" >
+        <EntityTypeShape EntityType="Model.BIOMETRICOS" Width="1.5" PointX="0.62625558330968745" PointY="26.660265800850588" />
+        <EntityTypeShape EntityType="Model.CIUDADANO" Width="1.5" PointX="7.4501042437972984" PointY="5.8999828276690014" />
+        <EntityTypeShape EntityType="Model.COLONIAS" Width="1.5" PointX="6.5786221858945773" PointY="27.781444562497292" />
+        <EntityTypeShape EntityType="Model.DATOS_CONTRIBUYENTE" Width="1.5" PointX="10.973442490665914" PointY="0.072280183468144465" />
+        <EntityTypeShape EntityType="Model.DOCUMENTOS" Width="1.5" PointX="1.695201483413205" PointY="26.214160067129022" />
+        <EntityTypeShape EntityType="Model.ENTIDADES" Width="1.5" PointX="9.4962814606243189" PointY="11.575552737142683" />
+        <EntityTypeShape EntityType="Model.IDENTIFICA" Width="1.5" PointX="1.1362861325667639" PointY="21.2856487283882" />
+        <EntityTypeShape EntityType="Model.IMGBIOMETRICOS" Width="1.5" PointX="1.2952294914495337" PointY="7.3292541687047361" />
+        <EntityTypeShape EntityType="Model.NACIONALIDAD" Width="1.5" PointX="6.5337963600334685" PointY="16.657790057667434" />
+        <EntityTypeShape EntityType="Model.NUMERO_FOLIO" Width="1.5" PointX="8.3542645314495374" PointY="9.9788630353188434" />
+        <EntityTypeShape EntityType="Model.NUMERO_LICENCIA" Width="1.5" PointX="0.818430154034137" PointY="18.629803517195306" />
+        <EntityTypeShape EntityType="Model.SCANNER" Width="1.5" PointX="1.3907386965075221" PointY="13.43770136564863" />
+        <EntityTypeShape EntityType="Model.SCANNER_PROPERTIES" Width="1.5" PointX="9.8086776741820749" PointY="22.293747286449069" />
+        <EntityTypeShape EntityType="Model.TIPO_CABELLO" Width="1.5" PointX="8.5581729731327734" PointY="17.374842070683297" />
+        <EntityTypeShape EntityType="Model.TIPO_LICENCIAS" Width="1.5" PointX="11.061004478047138" PointY="4.1412231643410511" />
+        <EntityTypeShape EntityType="Model.TIPO_TRAMITE" Width="1.5" PointX="7.1245254311359139" PointY="25.254659187632921" />
+        <EntityTypeShape EntityType="Model.TIPOS_SANGRE" Width="1.5" PointX="6.8279194155837963" PointY="7.3651554767811467" />
+        <EntityTypeShape EntityType="Model.TRAMITE" Width="1.5" PointX="2.81102684271104" PointY="14.205322346745675" />
+        <EntityTypeShape EntityType="Model.TRAMITES" Width="1.5" PointX="2.5537789420009496" PointY="17.752190925996839" />
+        <AssociationConnector Association="Model.IMGBIOMETRICOS_FK1" />
+        <AssociationConnector Association="Model.TRAMITES_FK1" />
+        <AssociationConnector Association="Model.SCANNER_FK1" />
+        <AssociationConnector Association="Model.IDENTIFICA_FK1" />
+        <AssociationConnector Association="Model.IMGBIOMETRICOS_FK2" />
+        <AssociationConnector Association="Model.NUMERO_FOLIO_FK1" />
+        <AssociationConnector Association="Model.SCANNER_FK2" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

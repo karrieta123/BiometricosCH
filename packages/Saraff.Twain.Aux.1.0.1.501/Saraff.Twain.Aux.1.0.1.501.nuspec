@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Saraff.Twain.Aux</id>
+    <version>1.0.1.501</version>
+    <title>Saraff.Twain.Aux</title>
+    <authors>SARAFF SOFTWARE</authors>
+    <owners>SARAFF SOFTWARE</owners>
+    <licenseUrl>http://www.gnu.org/licenses/lgpl-3.0.txt</licenseUrl>
+    <projectUrl>https://sarafftwain.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Provides outproc interaction with a Saraff.Twain.NET.</description>
+    <summary />
+    <copyright>Copyright SARAFF 2016</copyright>
+    <tags>saraff twain aux outproc</tags>
+    <dependencies>
+      <dependency id="Saraff.Twain" version="1.0.20.517" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,186 @@
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\BIOMETRICOS.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\CIUDADANO.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\COLONIAS.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DATOS_CONTRIBUYENTE.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DEDOS_AMP.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DEDOS_CAUSA.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DESCRIPCION_DESCUENTO.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DOCUMENTOS.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\ENTIDADES.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.Context.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.Designer.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\IDENTIFICA.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\IMGBIOMETRICOS.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\INVENTARIO.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\NACIONALIDAD.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\NUMERO_FOLIO.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\NUMERO_LICENCIA.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\PARAMETROS.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\SCANNER.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\SCANNER_PROPERTIES.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPOS_SANGRE.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPO_CABELLO.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPO_LICENCIAS.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPO_TRAMITE.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TRAMITE.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TRAMITES.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\VERSIONAMIENTO.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.Context.tt
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.edmx.diagram
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.tt
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Wpf.Sample2.exe.config
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Wpf.Sample2.exe
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Wpf.Sample2.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\DataTLX.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Entidades.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Aux.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\System.Web.Providers.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\EntityFramework.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\DataTLX.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\DataTLX.dll.config
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Entidades.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.xml
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\bin\Debug\EntityFramework.xml
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csprojAssemblyReference.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\PB.baml
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\TwainSample2.baml
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\PB.g.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\TwainSample2.g.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\App.g.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2_MarkupCompile.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.g.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.Properties.Resources.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.GenerateResource.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.CopyComplete
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.exe
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\BIOMETRICOS.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\CIUDADANO.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\COLONIAS.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DATOS_CONTRIBUYENTE.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DEDOS_AMP.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DEDOS_CAUSA.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DESCRIPCION_DESCUENTO.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DOCUMENTOS.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\ENTIDADES.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.Context.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.Designer.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\IDENTIFICA.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\IMGBIOMETRICOS.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\INVENTARIO.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\NACIONALIDAD.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\NUMERO_FOLIO.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\NUMERO_LICENCIA.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\PARAMETROS.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\SCANNER.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\SCANNER_PROPERTIES.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPOS_SANGRE.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPO_CABELLO.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPO_LICENCIAS.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPO_TRAMITE.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TRAMITE.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TRAMITES.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\VERSIONAMIENTO.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.Context.tt
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.edmx.diagram
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.tt
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Wpf.Sample2.exe.config
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Wpf.Sample2.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Wpf.Sample2.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\DataTLX.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Entidades.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Aux.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Oracle.DataAccess.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\DataTLX.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\DataTLX.dll.config
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Entidades.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.xml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\PB.baml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\TwainSample2.baml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\PB.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\TwainSample2.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\App.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2_MarkupCompile.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.g.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\BIOMETRICOS.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\CIUDADANO.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\COLONIAS.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DATOS_CONTRIBUYENTE.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DEDOS_AMP.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DEDOS_CAUSA.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DESCRIPCION_DESCUENTO.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\DOCUMENTOS.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\ENTIDADES.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.Context.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.Designer.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\IDENTIFICA.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\IMGBIOMETRICOS.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\INVENTARIO.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\NACIONALIDAD.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\NUMERO_FOLIO.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\NUMERO_LICENCIA.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\PARAMETROS.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\SCANNER.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\SCANNER_PROPERTIES.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPOS_SANGRE.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPO_CABELLO.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPO_LICENCIAS.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TIPO_TRAMITE.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TRAMITE.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\TRAMITES.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\VERSIONAMIENTO.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.Context.tt
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.edmx.diagram
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Models\EntitiLocal.tt
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Wpf.Sample2.exe.config
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Wpf.Sample2.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Wpf.Sample2.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\DataTLX.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Entidades.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.Aux.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\System.Web.Providers.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\EntityFramework.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\DataTLX.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\DataTLX.dll.config
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Entidades.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Saraff.Twain.xml
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\EntityFramework.xml
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.AssemblyReference.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\PB.baml
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\TwainSample2.baml
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\PB.g.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\TwainSample2.g.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\App.g.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2_MarkupCompile.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.g.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.Properties.Resources.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.GenerateResource.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.CoreCompileInputs.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.CopyComplete
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.pdb

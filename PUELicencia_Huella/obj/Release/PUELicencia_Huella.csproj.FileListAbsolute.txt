@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Release\TLXLicencia_Huella.exe.config
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Release\TLXLicencia_Huella.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Release\TLXLicencia_Huella.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Release\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Release\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Release\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Release\PUELicencia_Huella.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Release\PUELicencia_Huella.Form1.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Release\PUELicencia_Huella.Mensaje.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Release\TLXLicencia_Huella.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Release\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Release\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Release\PUELicencia_Huella.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Release\TLXLicencia_Huella.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Release\TLXLicencia_Huella.pdb

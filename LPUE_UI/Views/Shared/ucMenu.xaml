@@ -1,0 +1,280 @@
+﻿<UserControl x:Class="PUE_UI.Views.Shared.ucMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:ctr="clr-namespace:PUE.Views.Shared" 
+             mc:Ignorable="d">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../Content/Styles/Home/dicHome.xaml"/>
+                <ResourceDictionary Source="../../Content/Styles/Menu/dicMenu.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Border BorderThickness="3 3 3 3">
+        <Border.BorderBrush>
+            <SolidColorBrush Color="white" Opacity="0.4"/>
+        </Border.BorderBrush>
+
+        <Grid x:Name="GrdContentInfoMenu">
+            <Grid.RowDefinitions>
+                <!--Header-->
+                <RowDefinition Height="20" />
+                <!--Menu-->
+                <RowDefinition Height="25" />
+                <!--Body-->
+                <RowDefinition Height="565*"/>
+                <!--Footer-->
+                <RowDefinition Height="20" />
+            </Grid.RowDefinitions>
+
+            <!--HEADER-->
+            <Grid Grid.Row="0" Background="#212121" >
+                <!--#009688-->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="25" />
+                    <ColumnDefinition Width="260*" />
+                    <ColumnDefinition Width="190*" />
+                    <ColumnDefinition Width="50" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0">
+                    <!--  <Image Height="25" Width="25" Margin="3,-2,0,0" Source="../../bin/debug/Content/Images/All/PUEEsq.png"/>-->
+                </StackPanel>
+
+                <StackPanel Grid.Column="1">
+                    <Label Margin="-2, -4, 0, 0" Style="{StaticResource ResourceKey=lblHeaderInfo}" FontSize="15">Licencias</Label>
+                </StackPanel>
+
+                <StackPanel Grid.Column="4">
+                    <Image x:Name="imgMinimizeWindow" Style="{StaticResource ResourceKey=styleMinimize_Close}" Source="../../Content/Images/All/iconMinimize.png" Margin="0, 4, 27, 0" Height="12" ToolTip="Minimizar" MouseDown="headerOptions_MouseDown" />
+                    <Image x:Name="imgCloseWindow" Style="{StaticResource ResourceKey=styleMinimize_Close}" Source="../../Content/Images/All/close.png" Margin="0,-12,8,0" ToolTip="Cerrar" MouseDown="headerOptions_MouseDown" HorizontalAlignment="Right" Width="10" Height="10" />
+                </StackPanel>
+            </Grid>
+
+            <!--MENU-->
+
+            <Grid Grid.Row="1" Background="#d8d9da">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="16"/>
+                    <ColumnDefinition Width="19"/>
+                    <ColumnDefinition Width="100*" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel x:Name="stkMenuBtn" Margin="-1, 0, 0, 0" Grid.Column="0" Grid.ColumnSpan="2">
+                    <Border x:Name="brdMenubtn" Margin="0, 2, 0, 0" Height="22" Width="33" Style="{StaticResource ResourceKey=brdMenuButton}">
+                        <Image x:Name="imgMenu" Style="{StaticResource ResourceKey=styleMenu}" ToolTip="Menu" Height="Auto" Width="33"/>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Grid.Column="2">
+                    <Label x:Name="lblOptionName" Margin="0, -3, 4, 0" HorizontalAlignment="Right" Style="{StaticResource ResourceKey=lblHeaderInfo}" FontSize="17" Foreground="#9E9E9E" />
+                </StackPanel>
+            </Grid>
+
+            <!--BODY-->
+            <Grid Grid.Row="2" VerticalAlignment="Stretch" Background="Gray">
+
+
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="1000*" />
+                </Grid.ColumnDefinitions>
+
+                <Popup x:Name="popup" Placement="Center"  Width="200" Height="100" Margin="387,366,534,263" Grid.Column="1">
+
+                    <Grid>
+
+                        <StackPanel  Grid.Column="0" Background="AliceBlue" >
+                            <Label Style="{StaticResource ResourceKey=styleMenuFWYItems}" Margin="18,5,8,8" Name="Error"></Label>
+                            <Label Style="{StaticResource ResourceKey=styleMenuFWYItems}" Margin="5,5,18,8">Folio Laser:</Label>
+                            <TextBox x:Name="foliolasertext" VerticalAlignment="Center" Margin="80,-40,18,8" KeyDown="Enter_GuardarTramite"/>
+                            <Button  x:Name="btnSI" Margin="100,0,18,8" Content="Aceptar" Click="GuardarTramite"/>
+                            <Button  x:Name="btnNo"  Margin="10,-28,110,80" Content="Cancelar" Click="GuardarTramite"/>
+
+                        </StackPanel>
+                    </Grid>
+                </Popup>
+
+                <StackPanel Grid.Column="0" Background="#d8d9da">
+                    <StackPanel x:Name="stkMenu" Style="{StaticResource ResourceKey=VisibleAnimation}" Width="350px" >
+
+                        <StackPanel Grid.Column="4">
+                            <Label Style="{StaticResource ResourceKey=styleMenuFWYItems}" Margin="10, 0, 0, 0">No. Folio:</Label>
+                            <TextBox Name="BuscarTramites" Style="{StaticResource ResourceKey=txtForms}" HorizontalAlignment="Stretch" Margin="15, 0, 0, 0" KeyDown="Enter_BuscarTramite"/>
+                        </StackPanel>
+
+                        <Button  Style="{StaticResource ResourceKey=btnPUE}" Width="99" Height="30" HorizontalAlignment="Right" Margin="10,10,10,0" Content="Buscar"  Click="BuscarTramite"/>
+
+                        <Border Grid.Column="4">
+                            <Label x:Name="lblCapLicDat" Style="{StaticResource ResourceKey=styleMenuFWYItems}" Margin="0,10,10,0">Datos de Licencia:</Label>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="lblNombre" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="0,40,10,0"  BorderThickness="0 0 0 0"  Text="Nombre: "  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="NombreVal" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="65,-20,10,0"  BorderThickness="0 0 0 0"  Text=""  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="lblCurp" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="0,40,10,0"  BorderThickness="0 0 0 0"  Text="Curp: "  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="CurpVal" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="65,-20,10,0"  BorderThickness="0 0 0 0"  Text=""  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="lblNacionalidad" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="0,40,10,0"  BorderThickness="0 0 0 0"  Text="Nacionalidad: "  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="NacionalidadVal" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="100,-20,10,0"  BorderThickness="0 0 0 0"  Text=""  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="lblExpedida" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="0,40,10,0"  BorderThickness="0 0 0 0"  Text="Expedida: "  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="ExpedidaVal" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="65,-20,10,0"  BorderThickness="0 0 0 0"  Text=""  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="lblVigencia" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True" FontSize="15px" Margin="0,40,10,0"  BorderThickness="0 0 0 0"  Text="Vigencia: "  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="VigenciaVal" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="65,-20,10,0"  BorderThickness="0 0 0 0"  Text=""  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="lblCodigo" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="0,40,10,0"  BorderThickness="0 0 0 0"  Text="CP: "  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="CodigoVal" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="65,-20,10,0"  BorderThickness="0 0 0 0"  Text=""  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="lblTipo" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True" FontSize="15px" Margin="0,40,10,0"  BorderThickness="0 0 0 0"  Text="Modalidad: "  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="TipoVal" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="100,-20,10,0"  BorderThickness="0 0 0 0"  Text=""  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}"/>
+
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="lblAntiguo" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True" FontSize="15px" Margin="0,40,10,0"  BorderThickness="0 0 0 0"  Text="Antigüedad: "  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="AntiguoVal" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="100,-20,10,0"  BorderThickness="0 0 0 0"  Text=""  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="lblDonador" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True" FontSize="15px" Margin="0,40,10,0"  BorderThickness="0 0 0 0"  Text="Donador: "  Focusable="True"></TextBox>
+                        </Border>
+
+                        <Border Style="{StaticResource ResourceKey=brdMenuItem}">
+                            <TextBox Name="DonadorVal" Style="{StaticResource ResourceKey=txtForms}" IsReadOnly="True"  FontSize="15px" Margin="65,-20,10,0"  BorderThickness="0 0 0 0"  Text=""  Focusable="True"></TextBox>
+                        </Border>
+
+                    </StackPanel>
+                </StackPanel>
+
+                <Grid x:Name="stkContent" Grid.Column="1" Margin="-1, 0, 0, 0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" MinWidth="1000" MinHeight="700" >
+                    <!--<Grid VerticalAlignment="Center" HorizontalAlignment="Center">-->
+
+                    <Grid.Background>
+                        <ImageBrush ImageSource="../../Content/Images/All/shattered.png"/>
+                    </Grid.Background>
+
+
+                    <Label Name="NumeroLicencia"  Margin="60,27,790,613" Style="{StaticResource ResourceKey=styleMenuFWYItems}"  Content="Folio: "/>
+                    <!--<Image Source="../../Content/Images/All/tlx.png" Stretch="UniformToFill" Margin="306,10,394,619" Width="300"/>-->
+                    <!--    <Image  Style="{StaticResource ResourceKey=logoPue}"  Margin="306,0,394,619"/>-->
+                    <!--<Label Margin="348,27,434,511" Style="{StaticResource ResourceKey=styleMenuFWYItems}"  Content="Licencia de Conducir Edo. de Tlaxcala" Width="Auto"/>-->
+
+                    <Label Name="EstatusTramite" Margin="722,27,128,447" Style="{StaticResource ResourceKey=styleMenuFWYItems}"  Content="Estatus:"/>
+
+
+                    <StackPanel Grid.Column="0" Grid.Row="3" Margin="0,97,350,-97">
+                        <Button x:Name="btnFirma" Style="{StaticResource ResourceKey=btnPUE}" Width="165" Height="30" HorizontalAlignment="Right" Margin="0,170,311,0" Content="Firma" Click="botones_Click" />
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="0" Grid.Row="1" Margin="5, 0, 5, 0">
+
+
+                        <Border Style="{StaticResource ResourceKey=brdEnrolamiento}">
+
+                            <Image Style="{StaticResource ResourceKey=imgthumb}"  Margin="376,162,10,-159" Height="Auto" />
+                        </Border>
+                        <Button x:Name="btnHuella" Style="{StaticResource ResourceKey=btnPUE}" Width="164" Height="30" HorizontalAlignment="Right" Margin="0,160,233,0" Content="Huellas" Click="botones_Click" />
+                        <Image Height="100" Margin="610,0,402,0" RenderTransformOrigin="2.25,1.88"/>
+
+
+
+
+
+
+                        <!--btnImprimir-->
+                        <!--<Button Name="btnImprimir" Style="{StaticResource ResourceKey=btnPUE}" Width="164" Height="30" HorizontalAlignment="Right" Margin="0,155,233,0" Content="Imprimir" Click="botones_Click"  />-->
+
+
+
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="0" Grid.Row="1" Margin="5, 0, 5, 0">
+                        <Border Style="{StaticResource ResourceKey=brdEnrolamiento}"/>
+
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="0" Grid.Row="2" Margin="5, 0, 5, 0">
+
+
+
+                        <!--<Border Style="{StaticResource ResourceKey=brdEnrolamiento}">
+                            <Image  Style="{StaticResource ResourceKey=imgchip}"  Margin="340,311,392,-311"/>
+                        </Border>-->
+                        <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Margin="0,150,363,0">
+                            <Image Style="{StaticResource ResourceKey=imgSignature}"  Margin="177,0,284,8" />
+                        </Border>
+
+                        <!--<Button x:Name="btnFotos" Style="{StaticResource ResourceKey=btnPUE}" Width="164" Height="30" HorizontalAlignment="Right" Margin="0,140,435,0" Content="Grabar Chip" Click="botones_Click" />-->
+                        <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Margin="0,180,363,0">
+                            <Image Style="{StaticResource ResourceKey=imgPhoto}"  Margin="177,-85,280,8" />
+                        </Border>
+                        <!--<Button Name="btnPrevisualizar" Style="{StaticResource ResourceKey=btnPUE}" Width="164" Height="30" HorizontalAlignment="Right" Margin="0,45,230,0" Content="Previsualizar" Click="botones_Click"  />-->
+
+                        <Button Name="btnFotos" Style="{StaticResource ResourceKey=btnPUE}" Width="164" Height="30" HorizontalAlignment="Right" Margin="0,-70,650,0"  Content="Cámara" Click="botones_Click"  />
+                        <Button x:Name="btnGuardar" Style="{StaticResource ResourceKey=btnPUE}" Width="164" Height="30" HorizontalAlignment="Right" Margin="0,-20,650,0"  Content="Guardar documentos" Click="botones_Click"  />
+
+
+                    </StackPanel>
+
+                    <Button x:Name="btnMostrarImg" Style="{StaticResource ResourceKey=btnPUE}" Width="164" Height="30" HorizontalAlignment="Right" Margin="0,484,220,215"  Content="Mostrar Img" Click="botones_Click"  />
+                    <!--</Grid>-->
+                </Grid>
+            </Grid>
+            <!--FOOTER-->
+            <StackPanel x:Name="stkFooter" Grid.Row="3" Background="#002b14" Opacity="0.9" >
+                <Label Style="{StaticResource ResourceKey=styleVersion}" Margin="0, -3, 0, 1" Visibility="Hidden" Width="100" HorizontalAlignment="Right" />
+                <Image Style="{StaticResource ResourceKey=imgUserLogd}" Visibility="Hidden"/>
+                <Label x:Name="lblUserNameAuth" Style="{StaticResource ResourceKey=lblUserNameInfoHeader}" Visibility="Hidden" Content="User"/>
+            </StackPanel>
+
+        </Grid>
+    </Border>
+
+</UserControl>

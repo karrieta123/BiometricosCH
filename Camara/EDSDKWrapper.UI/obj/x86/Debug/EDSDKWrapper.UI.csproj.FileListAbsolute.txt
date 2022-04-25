@@ -1,0 +1,481 @@
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\bin\Debug\Resources\EDSDK.dll
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\bin\Debug\Resources\EdsImage.dll
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.dll
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.pdb
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojResolveAssemblyReference.cache
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.Cache
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Projects\Tlaxcala.Licencias\LBC\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\bin\Debug\Resources\EDSDK.dll
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\bin\Debug\Resources\EdsImage.dll
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.dll
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.pdb
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojResolveAssemblyReference.cache
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.Cache
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\TLX.Licencias\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\Resources\EDSDK.dll
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\Resources\EdsImage.dll
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.dll
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.pdb
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojResolveAssemblyReference.cache
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.Cache
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\Resources\EDSDK.dll
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\Resources\EdsImage.dll
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.dll
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\bin\Debug\Resources\EDSDK.dll
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\bin\Debug\Resources\EdsImage.dll
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.dll
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.dll
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\log4net.dll
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.Framework.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\log4net.xml
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.Cache
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojAssemblyReference.cache
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\Gestoria Mx\Desktop\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojAssemblyReference.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojAssemblyReference.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojAssemblyReference.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\DC SOLUCIONES\Documents\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+D:\src vert\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+D:\src vert\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+D:\src vert\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+D:\src vert\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+D:\src vert\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojAssemblyReference.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.AssemblyReference.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.AssemblyReference.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.AssemblyReference.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.AssemblyReference.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.AssemblyReference.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.AssemblyReference.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.baml
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\MainView.g.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\App.g.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI_MarkupCompile.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.g.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.Properties.Resources.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.GenerateResource.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CoreCompileInputs.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe.config
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\bin\Debug\EDSDKWrapper.UI.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\bin\Debug\System.Web.Providers.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.csproj.CopyComplete
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\Camara\EDSDKWrapper.UI\obj\x86\Debug\EDSDKWrapper.UI.pdb

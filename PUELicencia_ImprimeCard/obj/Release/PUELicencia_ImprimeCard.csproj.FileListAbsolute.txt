@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Release\PUELicencia_ImprimeCard.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Release\PUELicencia_ImprimeCard.Form1.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Release\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Release\TLXLicencia_ImprimeCard.Resource1.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Release\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Release\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache

@@ -1,0 +1,33 @@
+﻿<Window x:Class="PUE.Views.License.Search"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Search" Height="300" Width="600">
+    <ScrollViewer>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" MinWidth="281" />
+                <ColumnDefinition Width="Auto" MinWidth="31" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="1">
+                <Label>Ingresar Colonia:</Label>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Grid.Column="1">
+                <TextBox Width="280" Name="txtcolonia" KeyUp="txtcolonia_KeyUp" SizeChanged="txtcolonia_SizeChanged"></TextBox>
+            </StackPanel>
+            <StackPanel Margin="0,40" Grid.Row="2" Grid.ColumnSpan="3">
+                <DataGrid ItemsSource="{Binding}" Name="dataGrid" ScrollViewer.VerticalScrollBarVisibility="Auto" SelectionChanged="dataGrid_SelectionChanged" MouseDoubleClick="dataGrid_MouseDoubleClick" />
+            </StackPanel >
+            <!--<StackPanel Grid.Row="3" Grid.Column="2">
+                -->
+            <!--<Button Click="Button_Click">Aceptar</Button>-->
+            <!--
+            </StackPanel>-->
+        </Grid>
+    </ScrollViewer>
+</Window>

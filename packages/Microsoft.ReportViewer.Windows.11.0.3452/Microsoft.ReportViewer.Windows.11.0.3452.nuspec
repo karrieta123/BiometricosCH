@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.ReportViewer.Windows</id>
+    <version>11.0.3452</version>
+    <title>Microsoft.ReportViewer.Windows</title>
+    <authors>Rohit</authors>
+    <owners>Rohit</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Microsoft.ReportViewer Runtime 2012</description>
+    <summary />
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Microsoft Copyright 2014</copyright>
+    <tags>Microsoft ReportViewer</tags>
+    <dependencies>
+      <dependency id="Microsoft.SqlServer.Types" version="11.0.2" />
+    </dependencies>
+  </metadata>
+</package>

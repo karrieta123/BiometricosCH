@@ -1,0 +1,3 @@
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Release\sigPlusNET_wpfDemo.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Release\App.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Release\sigPlusNET_wpfDemo_MarkupCompile.cache

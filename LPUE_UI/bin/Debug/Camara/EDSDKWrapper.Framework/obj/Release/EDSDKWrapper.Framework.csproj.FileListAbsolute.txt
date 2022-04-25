@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.Framework\bin\Release\Resources\EDSDK.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.Framework\bin\Release\Resources\EdsImage.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.Framework\bin\Release\EDSDKWrapper.Framework.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.Framework\bin\Release\EDSDKWrapper.Framework.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.Framework\bin\Release\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.Framework\obj\Release\EDSDKWrapper.Framework.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.Framework\obj\Release\EDSDKWrapper.Framework.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.Framework\obj\Release\EDSDKWrapper.Framework.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.Framework\obj\Release\EDSDKWrapper.Framework.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Camara\EDSDKWrapper.Framework\obj\Release\EDSDKWrapper.Framework.pdb

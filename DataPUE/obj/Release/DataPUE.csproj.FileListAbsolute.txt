@@ -1,0 +1,2 @@
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\DataPUE\obj\Release\DataPUE.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\DataPUE\obj\Release\DataPUE.csproj.CoreCompileInputs.cache

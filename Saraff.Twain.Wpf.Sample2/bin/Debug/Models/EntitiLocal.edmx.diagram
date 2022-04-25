@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="06b8068bbdd64eccb3fceec37d60eac6" Name="Diagrama1" ZoomLevel="93">
+        <EntityTypeShape EntityType="EntitiLocal.BIOMETRICOS" Width="1.5" PointX="4.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.COLONIAS" Width="1.5" PointX="8.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.DATOS_CONTRIBUYENTE" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.DOCUMENTOS" Width="1.5" PointX="6" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.ENTIDADES" Width="1.5" PointX="10.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.IDENTIFICA" Width="1.5" PointX="10" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.IMGBIOMETRICOS" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.NACIONALIDAD" Width="1.5" PointX="2.75" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.NUMERO_FOLIO" Width="1.5" PointX="5.25" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.NUMERO_LICENCIA" Width="1.5" PointX="10.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.SCANNER" Width="1.5" PointX="8.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.SCANNER_PROPERTIES" Width="1.5" PointX="4.75" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.TIPO_CABELLO" Width="1.5" PointX="10.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.TIPO_LICENCIAS" Width="1.5" PointX="12.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.TIPO_TRAMITE" Width="1.5" PointX="12.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.TIPOS_SANGRE" Width="1.5" PointX="12.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.TRAMITE" Width="1.5" PointX="7.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="EntitiLocal.TRAMITES" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="EntitiLocal.IMGBIOMETRICOS_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="EntitiLocal.SCANNER_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="EntitiLocal.IDENTIFICA_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="EntitiLocal.IMGBIOMETRICOS_FK2" ManuallyRouted="false" />
+        <AssociationConnector Association="EntitiLocal.NUMERO_FOLIO_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="EntitiLocal.SCANNER_FK2" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="EntitiLocal.CIUDADANO" Width="1.5" PointX="13.75" PointY="26.125" />
+        <AssociationConnector Association="EntitiLocal.TRAMITES_FK1" />
+        <EntityTypeShape EntityType="EntitiLocal.DESCRIPCION_DESCUENTO" Width="1.5" PointX="4.5484745039364665" PointY="26.616961566087305" />
+        <AssociationConnector Association="EntitiLocal.DESCRIPCION_DESCUENTO_FK1" />
+        <EntityTypeShape EntityType="EntitiLocal.INVENTARIO" Width="1.5" PointX="11.64444895444645" PointY="24.835628655196928" />
+        <EntityTypeShape EntityType="EntitiLocal.PARAMETROS" Width="1.5" PointX="12.375" PointY="10.75" />
+        <EntityTypeShape EntityType="EntitiLocal.DEDOS_AMP" Width="1.5" PointX="1.5" PointY="0.875" />
+        <EntityTypeShape EntityType="EntitiLocal.DEDOS_CAUSA" Width="1.5" PointX="0.5" PointY="17.75" />
+        <AssociationConnector Association="EntitiLocal.DEDOS_AMP_FK1" />
+        <AssociationConnector Association="EntitiLocal.DEDOS_AMP_FK2" />
+        <EntityTypeShape EntityType="EntitiLocal.VERSIONAMIENTO" Width="1.5" PointX="12.375" PointY="13.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

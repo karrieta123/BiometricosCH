@@ -1,0 +1,11 @@
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\Saraff.Twain.Wpf.Sample2.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\PB.baml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\TwainSample2.baml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\PB.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\TwainSample2.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\App.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\Saraff.Twain.Wpf.Sample2_MarkupCompile.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\Saraff.Twain.Wpf.Sample2.g.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\Saraff.Twain.Wpf.Sample2.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\Saraff.Twain.Wpf.Sample2.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Saraff.Twain.Wpf.Sample2\obj\Release\Saraff.Twain.Wpf.Sample2.csproj.CoreCompileInputs.cache

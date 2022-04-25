@@ -1,0 +1,7 @@
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Finger\obj\Release\Finger.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Finger\obj\Release\Finger.fingerless.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Finger\obj\Release\Finger.Form1.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Finger\obj\Release\Finger.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Finger\obj\Release\Finger.Work.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Finger\obj\Release\Finger.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Finger\obj\Release\Finger.csproj.CoreCompileInputs.cache

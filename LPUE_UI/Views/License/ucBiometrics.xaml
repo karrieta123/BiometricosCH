@@ -1,0 +1,108 @@
+﻿<UserControl x:Class="PUE.Views.License.ucBiometrics"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             Background="#EEEEEE" >
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../Content/Styles/Home/dicHome.xaml"/>
+                <ResourceDictionary Source="../../Content/Styles/License/dicCaptureInfoLic.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid Unloaded="Cerrar">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="40*" />
+            <RowDefinition Height="40*" />
+            <RowDefinition Height="40*" />
+            <RowDefinition Height="40*" />
+            <RowDefinition Height="60" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*" />
+            <ColumnDefinition Width="250*" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Grid.Row="1" Margin="5, 0, 5, 0">
+            <Label Style="{StaticResource ResourceKey=lblForms}" Height="27" HorizontalContentAlignment="Center" FontSize="14" Content="Comenzar"/>
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}">
+                <Image x:Name="btnHuella" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+            
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Grid.Row="2" Margin="5,0,5,100" Grid.RowSpan="4">
+            
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Width="50" Height="50" HorizontalAlignment="Left" Margin="40,20,0,0">
+                <Image  x:Name="Fingerten" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Width="50" Height="50" HorizontalAlignment="Left" Margin="40,20,0,0">
+                <Image  x:Name="Fingernine" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Width="50" Height="50" HorizontalAlignment="Left" Margin="40,20,0,0">
+                <Image  x:Name="Fingereight" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Width="50" Height="50" HorizontalAlignment="Left" Margin="40,20,0,0">
+                <Image  x:Name="Fingerseven" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Width="50" Height="50" HorizontalAlignment="Left" Margin="40,20,0,0">
+                <Image  x:Name="Fingersix" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+
+
+        </StackPanel>
+
+
+        
+
+
+        <!--<StackPanel Grid.Column="0" Grid.Row="1" Margin="5, 0, 5, 0">
+            <Label Style="{StaticResource ResourceKey=lblForms}" Height="27" HorizontalContentAlignment="Center" FontSize="14" Content="Firma Electrónica"/>
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}">
+                <Image x:Name="btnFirma" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown" />
+            </Border>
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Grid.Row="2" Margin="5, 0, 5, 0">
+            <Label Style="{StaticResource ResourceKey=lblForms}" Height="27" HorizontalContentAlignment="Center" FontSize="14" Content="Fotografía"/>
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}">
+                <Image x:Name="btnFotografia" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+        </StackPanel>-->
+
+
+        <StackPanel x:Name="stkContenedor" Grid.Column="1" Grid.Row="1" Grid.RowSpan="4" Margin="10, 0, 25, 15" Background="White" Opacity="0.5" />
+
+        <Grid Grid.Row="5" Grid.Column="1">
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Width="50" Height="50" HorizontalAlignment="Left">
+                <Image  x:Name="fingerOne" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Width="50" Height="50" HorizontalAlignment="Left" Margin="80,0,0,0">
+                <Image  x:Name="Fingertwo" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Width="50" Height="50" HorizontalAlignment="Left" Margin="160,0,0,0">
+                <Image  x:Name="Fingertree" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Width="50" Height="50" HorizontalAlignment="Left" Margin="240,0,0,0">
+                <Image  x:Name="Fingerfour" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+            <Border Style="{StaticResource ResourceKey=brdEnrolamiento}" Width="50" Height="50" HorizontalAlignment="Left" Margin="320,0,0,0">
+                <Image  x:Name="Fingerfive" Style="{StaticResource ResourceKey=imgEnrolamiento}" MouseDown="onBiometric_MouseDown"/>
+            </Border>
+
+            <Button Name="btnGuardarBiometricos" Style="{StaticResource ResourceKey=btnPUE}" Width="145" Height="30" HorizontalAlignment="Right" Margin="0, 15, 15, 0" Content="Guardar" Click="botonesBiometricos_Click" />
+
+        </Grid>
+    </Grid>
+</UserControl>

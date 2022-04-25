@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LPUE_UI\\bin",
+    "\\LPUE_UI\\bin\\Debug",
+    "\\LPUE_UI\\bin\\Debug\\Content",
+    "\\LPUE_UI\\bin\\Debug\\Content\\Formatos",
+    "\\LPUE_UI\\Content",
+    "\\LPUE_UI\\Content\\Formatos",
+    "\\LPUE_UI\\Views",
+    "\\LPUE_UI\\Views\\Shared",
+    "\\PUELicencia_ImprimeCard"
+  ],
+  "SelectedNode": "\\PUELicencia_ImprimeCard\\SamplePrintDocument.cs",
+  "PreviewInSolutionExplorer": false
+}

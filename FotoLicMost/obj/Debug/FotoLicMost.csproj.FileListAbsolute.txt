@@ -1,0 +1,10 @@
+C:\Users\Gerard-PC\Documents\BiometricosCH\FotoLicMost\bin\Debug\FotoLicMost.exe.config
+C:\Users\Gerard-PC\Documents\BiometricosCH\FotoLicMost\bin\Debug\FotoLicMost.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\FotoLicMost\bin\Debug\FotoLicMost.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\FotoLicMost\obj\Debug\FotoLicMost.Form1.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\FotoLicMost\obj\Debug\FotoLicMost.Properties.Resources.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\FotoLicMost\obj\Debug\FotoLicMost.csproj.GenerateResource.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\FotoLicMost\obj\Debug\FotoLicMost.csproj.CoreCompileInputs.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\FotoLicMost\obj\Debug\FotoLicMost.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\FotoLicMost\obj\Debug\FotoLicMost.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\FotoLicMost\obj\Debug\FotoLicMost.csproj.AssemblyReference.cache

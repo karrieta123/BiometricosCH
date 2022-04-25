@@ -1,0 +1,29 @@
+C:\Users\DC SOLUCIONES\Documents\src vert\ZacatecasQR\bin\Debug\ZacatecasQR.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\ZacatecasQR\bin\Debug\ZacatecasQR.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\ZacatecasQR\bin\Debug\zxing.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\ZacatecasQR\obj\Debug\ZacatecasQR.csprojAssemblyReference.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\ZacatecasQR\obj\Debug\ZacatecasQR.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\ZacatecasQR\obj\Debug\ZacatecasQR.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Documents\src vert\ZacatecasQR\obj\Debug\ZacatecasQR.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\ZacatecasQR\obj\Debug\ZacatecasQR.pdb
+D:\src vert\ZacatecasQR\bin\Debug\ZacatecasQR.dll
+D:\src vert\ZacatecasQR\bin\Debug\ZacatecasQR.pdb
+D:\src vert\ZacatecasQR\obj\Debug\ZacatecasQR.csproj.CoreCompileInputs.cache
+D:\src vert\ZacatecasQR\obj\Debug\ZacatecasQR.csproj.CopyComplete
+D:\src vert\ZacatecasQR\obj\Debug\ZacatecasQR.dll
+D:\src vert\ZacatecasQR\obj\Debug\ZacatecasQR.pdb
+D:\src vert\ZacatecasQR\obj\Debug\ZacatecasQR.csprojAssemblyReference.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\ZacatecasQR\bin\Debug\ZacatecasQR.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\ZacatecasQR\bin\Debug\ZacatecasQR.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\ZacatecasQR\obj\Debug\ZacatecasQR.csproj.CoreCompileInputs.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\ZacatecasQR\obj\Debug\ZacatecasQR.csproj.CopyComplete
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\ZacatecasQR\obj\Debug\ZacatecasQR.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\ZacatecasQR\obj\Debug\ZacatecasQR.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\ZacatecasQR\obj\Debug\ZacatecasQR.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\ZacatecasQR\bin\Debug\ZacatecasQR.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\ZacatecasQR\bin\Debug\ZacatecasQR.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\ZacatecasQR\obj\Debug\ZacatecasQR.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\ZacatecasQR\obj\Debug\ZacatecasQR.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\ZacatecasQR\obj\Debug\ZacatecasQR.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\ZacatecasQR\obj\Debug\ZacatecasQR.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\ZacatecasQR\obj\Debug\ZacatecasQR.pdb

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07aed4e8-bd38-4f36-8837-959153acb066": {
+      "ProjectGuid": "07aed4e8-bd38-4f36-8837-959153acb066",
+      "DisplayName": "LPUE_UI",
+      "ColorIndex": 0
+    },
+    "ceb4af23-f678-496c-a272-b805926354e8": {
+      "ProjectGuid": "ceb4af23-f678-496c-a272-b805926354e8",
+      "DisplayName": "EDSDKWrapper.UI",
+      "ColorIndex": 1
+    },
+    "67c45f5a-4c26-48cf-8b87-18aa054d49df": {
+      "ProjectGuid": "67c45f5a-4c26-48cf-8b87-18aa054d49df",
+      "DisplayName": "PUELicencia_ImprimeCard",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "b6ccda11-be06-4d3b-bb87-979d5905f545": {
+      "ProjectGuid": "b6ccda11-be06-4d3b-bb87-979d5905f545",
+      "DisplayName": "Finger",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,277 @@
+C:\Projects\Tlaxcala.Licencias\LBC\Entidades\bin\Debug\Entidades.dll
+C:\Projects\Tlaxcala.Licencias\LBC\Entidades\bin\Debug\Entidades.pdb
+C:\Projects\Tlaxcala.Licencias\LBC\Entidades\obj\Debug\Entidades.dll
+C:\Projects\Tlaxcala.Licencias\LBC\Entidades\obj\Debug\Entidades.pdb
+C:\TLX.Licencias\src\Entidades\bin\Debug\Entidades.dll
+C:\TLX.Licencias\src\Entidades\bin\Debug\Entidades.pdb
+C:\TLX.Licencias\src\Entidades\obj\Debug\Entidades.dll
+C:\TLX.Licencias\src\Entidades\obj\Debug\Entidades.pdb
+C:\TLX.Licencias - copia\src\Entidades\bin\Debug\Entidades.dll
+C:\TLX.Licencias - copia\src\Entidades\bin\Debug\Entidades.pdb
+C:\TLX.Licencias - copia\src\Entidades\obj\Debug\Entidades.dll
+C:\TLX.Licencias - copia\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.pdb
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\Entidades.dll
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\Entidades.pdb
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\System.Web.Providers.dll
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.dll
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Gestoria Mx\Desktop\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gestoria Mx\Desktop\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gestoria Mx\Desktop\src\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\Gestoria Mx\Desktop\src\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gestoria Mx\Desktop\src\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Gestoria Mx\Desktop\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gestoria Mx\Desktop\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gestoria Mx\Desktop\src\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Aplicativo Escritorio\src\Entidades\bin\Debug\Entidades.dll
+D:\Aplicativo Escritorio\src\Entidades\bin\Debug\Entidades.pdb
+D:\Aplicativo Escritorio\src\Entidades\bin\Debug\System.Web.Providers.dll
+D:\Aplicativo Escritorio\src\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Aplicativo Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Aplicativo Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+D:\Aplicativo Escritorio\src\Entidades\obj\Debug\Entidades.dll
+D:\Aplicativo Escritorio\src\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Entidades\bin\Debug\Entidades.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Entidades\obj\Debug\Entidades.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\Entidades\obj\Debug\Entidades.pdb
+D:\RESPALDO PROYECTO\src vert\Entidades\bin\Debug\Entidades.dll
+D:\RESPALDO PROYECTO\src vert\Entidades\bin\Debug\Entidades.pdb
+D:\RESPALDO PROYECTO\src vert\Entidades\bin\Debug\System.Web.Providers.dll
+D:\RESPALDO PROYECTO\src vert\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\RESPALDO PROYECTO\src vert\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\RESPALDO PROYECTO\src vert\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+D:\RESPALDO PROYECTO\src vert\Entidades\obj\Debug\Entidades.dll
+D:\RESPALDO PROYECTO\src vert\Entidades\obj\Debug\Entidades.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\Entidades\bin\Debug\Entidades.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\Entidades\bin\Debug\Entidades.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Documents\src vert\Entidades\obj\Debug\Entidades.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\Entidades\obj\Debug\Entidades.pdb
+D:\src vert\Entidades\bin\Debug\Entidades.dll
+D:\src vert\Entidades\bin\Debug\Entidades.pdb
+D:\src vert\Entidades\bin\Debug\System.Web.Providers.dll
+D:\src vert\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\src vert\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+D:\src vert\Entidades\obj\Debug\Entidades.dll
+D:\src vert\Entidades\obj\Debug\Entidades.pdb
+D:\src vert\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\DC01\Desktop\src vert\Entidades\bin\Debug\Entidades.dll
+C:\Users\DC01\Desktop\src vert\Entidades\bin\Debug\Entidades.pdb
+C:\Users\DC01\Desktop\src vert\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\DC01\Desktop\src vert\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\DC01\Desktop\src vert\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\DC01\Desktop\src vert\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\DC01\Desktop\src vert\Entidades\obj\Debug\Entidades.dll
+C:\Users\DC01\Desktop\src vert\Entidades\obj\Debug\Entidades.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Entidades\bin\Debug\Entidades.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Entidades\bin\Debug\Entidades.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Entidades\obj\Debug\Entidades.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\Entidades\obj\Debug\Entidades.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Entidades\bin\Debug\Entidades.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Entidades\bin\Debug\Entidades.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Entidades\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Entidades\obj\Debug\Entidades.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\Entidades\obj\Debug\Entidades.pdb
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\Entidades\bin\Debug\Entidades.dll
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\Entidades\bin\Debug\Entidades.pdb
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\Entidades\obj\Debug\Entidades.dll
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\Entidades\obj\Debug\Entidades.pdb
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Entidades\bin\Debug\Entidades.dll
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Entidades\bin\Debug\Entidades.pdb
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Entidades\obj\Debug\Entidades.dll
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\Entidades\obj\Debug\Entidades.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Entidades\bin\Debug\Entidades.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Entidades\bin\Debug\Entidades.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Entidades\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Entidades\obj\Debug\Entidades.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\Entidades\obj\Debug\Entidades.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Entidades\bin\Debug\Entidades.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Entidades\bin\Debug\Entidades.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Entidades\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Entidades\obj\Debug\Entidades.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Entidades\obj\Debug\Entidades.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Entidades\bin\Debug\Entidades.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Entidades\obj\Debug\Entidades.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Entidades\bin\Debug\Entidades.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Entidades\bin\Debug\Entidades.pdb
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Entidades\obj\Debug\Entidades.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\Entidades\obj\Debug\Entidades.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Entidades\bin\Debug\Entidades.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Entidades\bin\Debug\Entidades.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Entidades\obj\Debug\Entidades.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\Entidades\obj\Debug\Entidades.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Entidades\bin\Debug\Entidades.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Entidades\bin\Debug\Entidades.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Entidades\obj\Debug\Entidades.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Entidades\obj\Debug\Entidades.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Entidades\bin\Debug\Entidades.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Entidades\obj\Debug\Entidades.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Entidades\bin\Debug\Entidades.dll
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Entidades\obj\Debug\Entidades.dll
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Entidades\bin\Debug\Entidades.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Entidades\obj\Debug\Entidades.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\Entidades\obj\Debug\Entidades.pdb
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Entidades\bin\Debug\Entidades.dll
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Entidades\bin\Debug\Entidades.pdb
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Entidades\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Entidades\obj\Debug\Entidades.dll
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\Entidades\obj\Debug\Entidades.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\bin\Debug\Entidades.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\bin\Debug\Entidades.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\obj\Debug\Entidades.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\obj\Debug\Entidades.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Entidades\bin\Debug\Entidades.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Entidades\bin\Debug\Entidades.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Entidades\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Entidades\obj\Debug\Entidades.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache

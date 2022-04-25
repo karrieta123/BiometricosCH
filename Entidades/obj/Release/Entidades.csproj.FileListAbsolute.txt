@@ -1,0 +1,8 @@
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\bin\Release\Entidades.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\bin\Release\Entidades.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\bin\Release\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\obj\Release\Entidades.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\obj\Release\Entidades.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\Entidades\obj\Release\Entidades.pdb

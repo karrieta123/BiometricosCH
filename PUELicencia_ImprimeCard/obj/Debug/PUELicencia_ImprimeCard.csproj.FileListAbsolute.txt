@@ -1,0 +1,741 @@
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Form1.resources
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Form1.resources
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Form1.resources
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\TLX.Licencias\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Form1.resources
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Form1.resources
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Form1.resources
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Moises\Desktop\TLX.LicenciasNuevo\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\log4net.dll
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\log4net.xml
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Form1.resources
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Form1.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Form1.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Form1.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Particular_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Particular_Escritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojResolveAssemblyReference.cache
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.Cache
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\El Chuy\Documents\Proyectos\Licencias Puebla\LicenciasPueblaEscritorio\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Gerard\Desktop\ParticularesProd_Guinda_SinSeguro_SinAfis_Marzo2020\PUE.LicenciasNuevo16042019\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+D:\RESPALDO PROYECTO\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+D:\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+D:\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+D:\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+D:\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+D:\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+D:\src vert\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\src vert\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+D:\src vert\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+D:\src vert\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+D:\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC01\Desktop\src vert\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csprojAssemblyReference.cache
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.AssemblyReference.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.AssemblyReference.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.AssemblyReference.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.AssemblyReference.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.AssemblyReference.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.AssemblyReference.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.config
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\System.Web.Providers.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.Form1.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Properties.Resources.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.Resource1.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.GenerateResource.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CoreCompileInputs.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe.manifest
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.application
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.AssemblyReference.cache

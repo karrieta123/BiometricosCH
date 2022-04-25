@@ -1,0 +1,8 @@
+﻿<Window x:Class="Saraff.Twain.Wpf.Sample2.PB"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Escaneando..." Height="90" Width="300">
+    <StackPanel HorizontalAlignment="Center">
+        <Label Margin="0,16">Escaneando.. un momento por favor.</Label>
+    </StackPanel>
+</Window>

@@ -1,0 +1,690 @@
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Projects\Tlaxcala.Licencias\LBC\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojResolveAssemblyReference.cache
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\TLX.Licencias\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojResolveAssemblyReference.cache
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\TLX.Licencias - nuevo\TLX.LicenciasNuevo\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\log4net.dll
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\log4net.xml
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo21082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo22082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Moises\Desktop\Archivos de proyectos\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\bin\Debug\log4net.xml
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio\TLX.LicenciasNuevo13082018\TLX.LicenciasNuevo090082018\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Publico_Escritorio_Puebla\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\jgodinezr\Desktop\Licencias Puebla\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+F:\Puebla_Licencias_Publico_Escritorio\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Gerard\Desktop\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+F:\respaldo prod mio\Tamaulipas\Puebla_Licencias_Publico_Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Gestoria Mx\Desktop\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Desarrollo DC\Desktop\RESPALDO PROYECTO\Aplicativo Escritorio\src\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+D:\RESPALDO PROYECTO\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Desarrollo\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+D:\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+D:\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+D:\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+D:\src vert\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+D:\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC01\Desktop\src vert\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC SOLUCIONES\Pictures\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csprojAssemblyReference.cache
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC SOLUCIONES\Documents\Zacatecas mOD\Zacatecas Impresion\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.AssemblyReference.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.AssemblyReference.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.AssemblyReference.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.AssemblyReference.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.AssemblyReference.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.AssemblyReference.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe.config
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\bin\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\bin\Debug\System.Web.Providers.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\Window1.baml
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\Window1.g.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\App.g.cs
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo_MarkupCompile.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.g.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.Properties.Resources.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.GenerateResource.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.AssemblyReference.cache

@@ -1,0 +1,416 @@
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\obj\Debug\TLXLicencia_Huella.csprojResolveAssemblyReference.cache
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\obj\Debug\TLXLicencia_Huella.csproj.GenerateResource.Cache
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\obj\Debug\TLXLicencia_Huella.Form1.resources
+C:\Projects\Tlaxcala.Licencias\LBC\BCSLicencia_Huella\obj\Debug\TLXLicencia_Huella.Mensaje.resources
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csprojResolveAssemblyReference.cache
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Form1.resources
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Mensaje.resources
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csproj.GenerateResource.Cache
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Projects\Tlaxcala.Licencias\LBC\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\TLX.Licencias\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\TLX.Licencias\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\TLX.Licencias\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\TLX.Licencias\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\TLX.Licencias\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\TLX.Licencias\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Form1.resources
+C:\TLX.Licencias\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Mensaje.resources
+C:\TLX.Licencias\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\TLX.Licencias\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csproj.GenerateResource.Cache
+C:\TLX.Licencias\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\TLX.Licencias\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Form1.resources
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Mensaje.resources
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csproj.GenerateResource.Cache
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Form1.resources
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Mensaje.resources
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\Moises\Desktop\TLX.Licencias - copia\TLX.Licencias - copia\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Form1.resources
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Mensaje.resources
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csproj.GenerateResource.Cache
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\Desarrollotmp\Desktop\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Form1.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Mensaje.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo16082018\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Form1.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Mensaje.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo23082018 ConNuevoHuellas\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Form1.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Mensaje.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\Moises\Desktop\VersionesEscritorio\TLX.LicenciasNuevo31082018 ConNuevoHuellasTelEmerg\TLX.LicenciasNuevo090082018\src\TLXLicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csprojAssemblyReference.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\Indisegno\Documents\Visual Studio 2015\Projects\Licencias_Escritorio_Puebla\PUE.LicenciasNuevo16042019\PUE.LicenciasNuevo16042019\src\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csprojAssemblyReference.cache
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\Gestoria Mx\Desktop\src\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csprojAssemblyReference.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\Desarrollo DC\Desktop\Aplicativo Escritorio\src\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csprojAssemblyReference.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\DC SOLUCIONES\Documents\src vert\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+D:\src vert\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+D:\src vert\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+D:\src vert\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+D:\src vert\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+D:\src vert\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+D:\src vert\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+D:\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+D:\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+D:\src vert\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+D:\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+D:\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+D:\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+D:\src vert\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+D:\src vert\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+D:\src vert\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csprojAssemblyReference.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Almacenamiento\Documentos\Zacatecas\Codigo\caidas\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\DC-Developer\Downloads\Source Vertical\Source Vertical\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Vertical - copia\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csprojAssemblyReference.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\System\Documentos\Zacatecas\Escritorio\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\DC-Desarrollo\Downloads\Source Horizontal\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.AssemblyReference.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Apps\Almacenamiento\Zacatecas\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.AssemblyReference.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\QR Api\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Apps\Almacenamiento\TLX\Escritorio\con huella\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.AssemblyReference.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\aldo_\OneDrive\Documents\Docs\Sinaloa\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.AssemblyReference.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.AssemblyReference.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\LuisLF\Desktop\TLX HORIZONTAL\Source Horizontal\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.AssemblyReference.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\LuisFM\Desktop\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\inetpub\wwwroot\Chihuaha\TLX HORIZONTA10L\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\TLX HORIZONTAL\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\inetpub\wwwroot\Proyecto_Chihuaha\BiometricosCH\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe.config
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\bin\Debug\TLXLicencia_Huella.pdb
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\bin\Debug\System.Web.Providers.dll
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.AssemblyReference.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Form1.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.Mensaje.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.Properties.Resources.resources
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.GenerateResource.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CoreCompileInputs.cache
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\obj\Debug\PUELicencia_Huella.csproj.CopyComplete
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.exe
+C:\Users\Gerard-PC\Documents\BiometricosCH\PUELicencia_Huella\obj\Debug\TLXLicencia_Huella.pdb

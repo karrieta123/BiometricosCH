@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EntitiLocal.Store" Provider="Oracle.ManagedDataAccess.Client" ProviderManifestToken="10.2" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errores durante la generación:
+advertencia 6013: La tabla o vista 'LICENCIASM.BIN$OVmwzSCJANXgUAB/AQAr1A==$0' no tiene definida una clave principal y no es posible inferir ninguna clave principal válida. Esta tabla o vista se ha excluido. Para usar la entidad, necesitará revisar el esquema, agregar las claves correctas y quitar sus comentarios.
+        <EntityType Name="BIN$OVmwzSCJANXgUAB/AQAr1A==$0">
+          <Property Name="FOTO" Type="blob" />
+          <Property Name="HUELLA" Type="blob" />
+          <Property Name="HUELLA2" Type="blob" />
+          <Property Name="CURP" Type="varchar2" MaxLength="18" />
+          <Property Name="FIRMA" Type="blob" />
+        </EntityType>-->
+  <EntityType Name="BIOMETRICOS">
+    <Key>
+      <PropertyRef Name="ID_BIOMETRICOS" />
+    </Key>
+    <Property Name="ID_BIOMETRICOS" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="NOMBRE" Type="varchar2" MaxLength="60" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CIUDADANO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="NOMBRE" Type="varchar2" MaxLength="100" Nullable="false" />
+    <Property Name="APELLIDO_PATERNO" Type="varchar2" MaxLength="100" Nullable="false" />
+    <Property Name="APELLIDO_MATERNO" Type="varchar2" MaxLength="100" Nullable="false" />
+    <Property Name="FECHA_NACIMIENTO" Type="date" Nullable="false" />
+    <Property Name="SEXO" Type="varchar2" MaxLength="20" Nullable="false" />
+    <Property Name="EMAIL" Type="varchar2" MaxLength="100" />
+    <Property Name="ALERGIAS" Type="varchar2" MaxLength="100" />
+    <Property Name="SENAS_PARTICULARES" Type="varchar2" MaxLength="100" />
+    <Property Name="PROFESION" Type="varchar2" MaxLength="100" />
+    <Property Name="CABELLO" Type="number" Precision="38" Scale="0" />
+    <Property Name="TIPO_SANGRE" Type="number" Precision="38" Scale="0" />
+    <Property Name="ALTURA" Type="varchar2" MaxLength="20" />
+    <Property Name="USA_LENTES" Type="varchar2" MaxLength="20" />
+    <Property Name="DONADOR_ORGANOS" Type="varchar2" MaxLength="20" />
+    <Property Name="MUNICIPIO" Type="number" Precision="38" Scale="0" />
+    <Property Name="COLONIA" Type="number" Precision="38" Scale="0" />
+    <Property Name="NUM_EXT" Type="varchar2" MaxLength="50" />
+    <Property Name="NUM_INT" Type="varchar2" MaxLength="50" />
+    <Property Name="CODIGO_POSTAL" Type="number" Precision="38" Scale="0" />
+    <Property Name="DIRECCION" Type="varchar2" MaxLength="500" Nullable="false" />
+    <Property Name="ENTRE_CALLE1" Type="varchar2" MaxLength="200" />
+    <Property Name="ENTRE_CALLE2" Type="varchar2" MaxLength="200" />
+    <Property Name="TELEFONO" Type="varchar2" MaxLength="50" />
+    <Property Name="CURP" Type="varchar2" MaxLength="20" Nullable="false" />
+    <Property Name="NACIONALIDAD" Type="varchar2" MaxLength="50" />
+    <Property Name="LOCALIDAD" Type="varchar2" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="COLONIAS">
+    <Key>
+      <PropertyRef Name="COLONIA_ID" />
+    </Key>
+    <Property Name="COLONIA_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="CLAVE" Type="number" Precision="38" Scale="0" />
+    <Property Name="COLONIA" Type="varchar2" MaxLength="60" />
+    <Property Name="CP" Type="number" Precision="38" Scale="0" />
+    <Property Name="CLAVEM" Type="varchar2" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="DATOS_CONTRIBUYENTE">
+    <Key>
+      <PropertyRef Name="DATOS_CONTRIBUYENTE_ID" />
+    </Key>
+    <Property Name="DATOS_CONTRIBUYENTE_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="RFC" Type="varchar2" MaxLength="13" />
+    <Property Name="NUMERO_INTERIOR" Type="varchar2" MaxLength="10" />
+    <Property Name="COLONIA_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="CODIGO_POSTAL" Type="varchar2" MaxLength="10" />
+    <Property Name="LOCALIDAD" Type="number" Precision="38" Scale="0" />
+    <Property Name="TELEFONO" Type="varchar2" MaxLength="20" />
+    <Property Name="NACIONALIDAD_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ESTADO_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="MUNICIPIO" Type="number" Precision="38" Scale="0" />
+    <Property Name="CURP" Type="varchar2" MaxLength="20" />
+    <Property Name="FISICA_MORAL" Type="varchar2" MaxLength="20" />
+    <Property Name="NOMBRE" Type="varchar2" MaxLength="100" />
+    <Property Name="APELLIDO_PATERNO" Type="varchar2" MaxLength="100" />
+    <Property Name="APELLIDO_MATERNO" Type="varchar2" MaxLength="100" />
+    <Property Name="PENSIONADO" Type="number" Precision="38" Scale="0" />
+    <Property Name="DIRECCION" Type="varchar2" MaxLength="200" />
+    <Property Name="CALLE_PRINCIPAL" Type="varchar2" MaxLength="200" />
+    <Property Name="ENTRE_CALLE1" Type="varchar2" MaxLength="200" />
+    <Property Name="ENTRE_CALLE2" Type="varchar2" MaxLength="200" />
+    <Property Name="EMAIL" Type="varchar2" MaxLength="20" />
+    <Property Name="REFERENCI1" Type="varchar2" MaxLength="200" />
+    <Property Name="REFERENCIA2" Type="varchar2" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="DEDOS_AMP">
+    <Key>
+      <PropertyRef Name="ID_DEDOS_AMP" />
+    </Key>
+    <Property Name="ID_DEDOS_AMP" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ID_TRAMITE" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ID_DEDO_CAUSA" Type="number" Precision="38" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DEDOS_CAUSA">
+    <Key>
+      <PropertyRef Name="ID_DEDOS_CAUSA" />
+    </Key>
+    <Property Name="ID_DEDOS_CAUSA" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="NOMBRE" Type="varchar2" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DESCRIPCION_DESCUENTO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="varchar2" MaxLength="50" Nullable="false" />
+    <Property Name="CLAVE" Type="varchar2" MaxLength="20" Nullable="false" />
+    <Property Name="TIPO_LICENCIAS_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ACTIVO" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="DOCUMENTOS">
+    <Key>
+      <PropertyRef Name="ID_DOCUMENTO" />
+    </Key>
+    <Property Name="ID_DOCUMENTO" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="NOMBRE" Type="varchar2" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ENTIDADES">
+    <Key>
+      <PropertyRef Name="ENTIDAD_ID" />
+    </Key>
+    <Property Name="ENTIDAD_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="CLAVE" Type="number" Precision="38" Scale="0" />
+    <Property Name="ENTIDAD" Type="varchar2" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="IDENTIFICA">
+    <Key>
+      <PropertyRef Name="IDENTIFICA_ID" />
+    </Key>
+    <Property Name="IDENTIFICA_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="FOTO" Type="blob" Nullable="false" />
+    <Property Name="HUELLA" Type="blob" Nullable="false" />
+    <Property Name="HUELLA2" Type="blob" />
+    <Property Name="FIRMA" Type="blob" Nullable="false" />
+    <Property Name="TRAMITE_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IMGBIOMETRICOS">
+    <Key>
+      <PropertyRef Name="ID_IMGBIOMETRICOS" />
+    </Key>
+    <Property Name="ID_IMGBIOMETRICOS" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="IMG" Type="blob" Nullable="false" />
+    <Property Name="ID_TRAMITES" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ID_BIOMETRICOS" Type="number" Precision="38" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="INVENTARIO">
+    <Key>
+      <PropertyRef Name="ID_INVENTARIO" />
+    </Key>
+    <Property Name="ID_INVENTARIO" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="CVE_REC" Type="varchar2" MaxLength="20" Nullable="false" />
+    <Property Name="FOLIO_INI" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="FOLIO_FIN" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="CANTIDAD" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="FOLIO_ACT" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ACTIVO" Type="number" Precision="38" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NACIONALIDAD">
+    <Key>
+      <PropertyRef Name="NACIONALIDAD_ID" />
+    </Key>
+    <Property Name="NACIONALIDAD_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="PAIS" Type="varchar2" MaxLength="100" />
+    <Property Name="DESCRIPCION" Type="varchar2" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="NUMERO_FOLIO">
+    <Key>
+      <PropertyRef Name="IDFOLIO" />
+    </Key>
+    <Property Name="IDFOLIO" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="IDTRAMITE" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="varchar2" MaxLength="500" />
+    <Property Name="ESACTIVO" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="FECHACREADO" Type="date" />
+    <Property Name="USUARIOCREO" Type="varchar2" MaxLength="20" />
+    <Property Name="CLAVE_REC" Type="varchar2" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="NUMERO_LICENCIA">
+    <Key>
+      <PropertyRef Name="NUMERO_LIC" />
+    </Key>
+    <Property Name="NUMERO_LIC" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ID_TRAMITE" Type="number" Precision="38" Scale="0" />
+  </EntityType>
+  <EntityType Name="PARAMETROS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="varchar2" MaxLength="200" />
+    <Property Name="CONTENIDO" Type="blob" />
+    <Property Name="ACTIVO" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="DATE_CREATE" Type="date" Nullable="false" />
+    <Property Name="NOMBRE" Type="varchar2" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SCANNER">
+    <Key>
+      <PropertyRef Name="ID_SCANNER" />
+      <PropertyRef Name="ID_TRAMITES" />
+    </Key>
+    <Property Name="ID_SCANNER" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="DOCUMENT" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="IMG" Type="blob" Nullable="false" />
+    <Property Name="ID_TRAMITES" Type="number" Precision="38" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SCANNER_PROPERTIES">
+    <Key>
+      <PropertyRef Name="ID_SCAN_PROPERTIES" />
+    </Key>
+    <Property Name="ID_SCAN_PROPERTIES" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="DPI" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="COLOR" Type="varchar2" MaxLength="20" Nullable="false" />
+    <Property Name="SIDES" Type="number" Precision="38" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TIPO_CABELLO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="varchar2" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TIPO_LICENCIAS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="varchar2" MaxLength="20" Nullable="false" />
+    <Property Name="INCISO_LICENCIA" Type="varchar2" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TIPO_TRAMITE">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="DESCRIPCION" Type="varchar2" MaxLength="20" Nullable="false" />
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TIPOS_SANGRE">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="DESCRIPCION" Type="varchar2" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TRAMITE">
+    <Key>
+      <PropertyRef Name="TRAMITE_ID" />
+    </Key>
+    <Property Name="TRAMITE_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ESTATUS" Type="varchar2" MaxLength="12" Nullable="false" />
+    <Property Name="CURP" Type="varchar2" MaxLength="18" Nullable="false" />
+    <Property Name="RFC" Type="varchar2" MaxLength="13" />
+    <Property Name="NUMERO_LICENCIA" Type="varchar2" MaxLength="8" Nullable="false" />
+    <Property Name="TIPO_LICENCIA" Type="varchar2" MaxLength="35" Nullable="false" />
+    <Property Name="FECHA_EXPEDICION" Type="date" Nullable="false" />
+    <Property Name="FECHA_VENCIMIENTO" Type="date" Nullable="false" />
+    <Property Name="MOVIMIENTO" Type="varchar2" MaxLength="19" />
+    <Property Name="FECHA_MOVIMIENTO" Type="date" />
+    <Property Name="NUMERO_RECIBO" Type="varchar2" MaxLength="10" Nullable="false" />
+    <Property Name="TIPO_PAGO" Type="varchar2" MaxLength="10" Nullable="false" />
+    <Property Name="PERIODO" Type="varchar2" MaxLength="10" />
+    <Property Name="ESTADO_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="MUNICIPIO" Type="varchar2" MaxLength="20" Nullable="false" />
+    <Property Name="OFICINA" Type="varchar2" MaxLength="20" Nullable="false" />
+    <Property Name="CONCILIADO" Type="varchar2" MaxLength="10" />
+    <Property Name="OBSERVACIONES" Type="varchar2" MaxLength="100" />
+    <Property Name="USUARIO" Type="nvarchar2" MaxLength="100" Nullable="false" />
+    <Property Name="NUMERO_PERMISO" Type="number" Precision="38" Scale="0" />
+    <Property Name="NUMERO_EXPEDIENTE" Type="varchar2" MaxLength="10" />
+    <Property Name="TRAMITE_ANTERIOR_ID" Type="number" Precision="38" Scale="0" />
+    <Property Name="DATOS_CONTRIBUYENTE_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TRAMITES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="CIUDADANO_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="CONTRIBUYENTE_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="IDENTIFICA_ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="TIPO_TRAMITE" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="TIPO_LICENCIA" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="NUM_LICENCIA" Type="varchar2" MaxLength="20" />
+    <Property Name="LICENCIA_ANTERIOR" Type="varchar2" MaxLength="20" />
+    <Property Name="FECHA_EXPEDICION" Type="date" Nullable="false" />
+    <Property Name="FECHA_MOVIMIENTO" Type="date" />
+    <Property Name="RECIBO" Type="varchar2" MaxLength="20" />
+    <Property Name="NUM_PERMISO" Type="varchar2" MaxLength="20" />
+    <Property Name="NUM_EXPEDIENTE" Type="varchar2" MaxLength="20" />
+    <Property Name="INCISO" Type="varchar2" MaxLength="100" />
+    <Property Name="CONCEPTO_PAGO" Type="varchar2" MaxLength="200" />
+    <Property Name="IMPORTE" Type="varchar2" MaxLength="20" />
+    <Property Name="TOTAL_PAGAR" Type="varchar2" MaxLength="20" />
+    <Property Name="STATUS" Type="varchar2" MaxLength="100" />
+    <Property Name="IDUSUARIO" Type="varchar2" MaxLength="20" />
+    <Property Name="RFC_IS_LOCAL" Type="varchar2" MaxLength="20" />
+    <Property Name="RECAUDADORA" Type="varchar2" MaxLength="20" />
+    <Property Name="FECHA_MODIFICACION" Type="date" />
+    <Property Name="NUM_OFICIO" Type="varchar2" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="VERSIONAMIENTO">
+    <Key>
+      <PropertyRef Name="FECHA_CREACION" />
+    </Key>
+    <Property Name="FECHA_CREACION" Type="date" Nullable="false" />
+    <Property Name="NUMERO_VERSION" Type="number" Precision="38" Scale="0" />
+    <Property Name="ES_ACTIVO" Type="number" Precision="38" Scale="0" />
+    <Property Name="CREADO_POR" Type="varchar2" MaxLength="20" />
+    <Property Name="CARACTERISTICAS" Type="varchar2" MaxLength="500" />
+  </EntityType>
+  <Association Name="DEDOS_AMP_FK1">
+    <End Role="DEDOS_CAUSA" Type="Self.DEDOS_CAUSA" Multiplicity="1" />
+    <End Role="DEDOS_AMP" Type="Self.DEDOS_AMP" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="DEDOS_CAUSA">
+        <PropertyRef Name="ID_DEDOS_CAUSA" />
+      </Principal>
+      <Dependent Role="DEDOS_AMP">
+        <PropertyRef Name="ID_DEDOS_AMP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DEDOS_AMP_FK2">
+    <End Role="TRAMITES" Type="Self.TRAMITES" Multiplicity="1" />
+    <End Role="DEDOS_AMP" Type="Self.DEDOS_AMP" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TRAMITES">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DEDOS_AMP">
+        <PropertyRef Name="ID_TRAMITE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DESCRIPCION_DESCUENTO_FK1">
+    <End Role="TIPO_LICENCIAS" Type="Self.TIPO_LICENCIAS" Multiplicity="1" />
+    <End Role="DESCRIPCION_DESCUENTO" Type="Self.DESCRIPCION_DESCUENTO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TIPO_LICENCIAS">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DESCRIPCION_DESCUENTO">
+        <PropertyRef Name="TIPO_LICENCIAS_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="IDENTIFICA_FK1">
+    <End Role="TRAMITE" Type="Self.TRAMITE" Multiplicity="1" />
+    <End Role="IDENTIFICA" Type="Self.IDENTIFICA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TRAMITE">
+        <PropertyRef Name="TRAMITE_ID" />
+      </Principal>
+      <Dependent Role="IDENTIFICA">
+        <PropertyRef Name="TRAMITE_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="IMGBIOMETRICOS_FK1">
+    <End Role="BIOMETRICOS" Type="Self.BIOMETRICOS" Multiplicity="1" />
+    <End Role="IMGBIOMETRICOS" Type="Self.IMGBIOMETRICOS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BIOMETRICOS">
+        <PropertyRef Name="ID_BIOMETRICOS" />
+      </Principal>
+      <Dependent Role="IMGBIOMETRICOS">
+        <PropertyRef Name="ID_BIOMETRICOS" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="IMGBIOMETRICOS_FK2">
+    <End Role="TRAMITES" Type="Self.TRAMITES" Multiplicity="1" />
+    <End Role="IMGBIOMETRICOS" Type="Self.IMGBIOMETRICOS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TRAMITES">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="IMGBIOMETRICOS">
+        <PropertyRef Name="ID_TRAMITES" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="NUMERO_FOLIO_FK1">
+    <End Role="TRAMITES" Type="Self.TRAMITES" Multiplicity="1" />
+    <End Role="NUMERO_FOLIO" Type="Self.NUMERO_FOLIO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TRAMITES">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="NUMERO_FOLIO">
+        <PropertyRef Name="IDTRAMITE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="SCANNER_FK1">
+    <End Role="DOCUMENTOS" Type="Self.DOCUMENTOS" Multiplicity="1" />
+    <End Role="SCANNER" Type="Self.SCANNER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DOCUMENTOS">
+        <PropertyRef Name="ID_DOCUMENTO" />
+      </Principal>
+      <Dependent Role="SCANNER">
+        <PropertyRef Name="DOCUMENT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="SCANNER_FK2">
+    <End Role="TRAMITES" Type="Self.TRAMITES" Multiplicity="1" />
+    <End Role="SCANNER" Type="Self.SCANNER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TRAMITES">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="SCANNER">
+        <PropertyRef Name="ID_TRAMITES" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="TRAMITES_FK1">
+    <End Role="CIUDADANO" Type="Self.CIUDADANO" Multiplicity="1" />
+    <End Role="TRAMITES" Type="Self.TRAMITES" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CIUDADANO">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TRAMITES">
+        <PropertyRef Name="CIUDADANO_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EntitiLocalStoreContainer">
+    <EntitySet Name="BIOMETRICOS" EntityType="Self.BIOMETRICOS" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="CIUDADANO" EntityType="Self.CIUDADANO" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="COLONIAS" EntityType="Self.COLONIAS" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="DATOS_CONTRIBUYENTE" EntityType="Self.DATOS_CONTRIBUYENTE" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="DEDOS_AMP" EntityType="Self.DEDOS_AMP" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="DEDOS_CAUSA" EntityType="Self.DEDOS_CAUSA" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="DESCRIPCION_DESCUENTO" EntityType="Self.DESCRIPCION_DESCUENTO" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="DOCUMENTOS" EntityType="Self.DOCUMENTOS" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="ENTIDADES" EntityType="Self.ENTIDADES" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="IDENTIFICA" EntityType="Self.IDENTIFICA" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="IMGBIOMETRICOS" EntityType="Self.IMGBIOMETRICOS" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="INVENTARIO" EntityType="Self.INVENTARIO" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="NACIONALIDAD" EntityType="Self.NACIONALIDAD" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="NUMERO_FOLIO" EntityType="Self.NUMERO_FOLIO" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="NUMERO_LICENCIA" EntityType="Self.NUMERO_LICENCIA" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="PARAMETROS" EntityType="Self.PARAMETROS" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="SCANNER" EntityType="Self.SCANNER" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="SCANNER_PROPERTIES" EntityType="Self.SCANNER_PROPERTIES" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="TIPO_CABELLO" EntityType="Self.TIPO_CABELLO" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="TIPO_LICENCIAS" EntityType="Self.TIPO_LICENCIAS" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="TIPO_TRAMITE" EntityType="Self.TIPO_TRAMITE" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="TIPOS_SANGRE" EntityType="Self.TIPOS_SANGRE" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="TRAMITE" EntityType="Self.TRAMITE" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="TRAMITES" EntityType="Self.TRAMITES" Schema="LICENCIASM" store:Type="Tables" />
+    <EntitySet Name="VERSIONAMIENTO" EntityType="Self.VERSIONAMIENTO" Schema="LICENCIASM" store:Type="Tables" />
+    <AssociationSet Name="DEDOS_AMP_FK1" Association="Self.DEDOS_AMP_FK1">
+      <End Role="DEDOS_CAUSA" EntitySet="DEDOS_CAUSA" />
+      <End Role="DEDOS_AMP" EntitySet="DEDOS_AMP" />
+    </AssociationSet>
+    <AssociationSet Name="DEDOS_AMP_FK2" Association="Self.DEDOS_AMP_FK2">
+      <End Role="TRAMITES" EntitySet="TRAMITES" />
+      <End Role="DEDOS_AMP" EntitySet="DEDOS_AMP" />
+    </AssociationSet>
+    <AssociationSet Name="DESCRIPCION_DESCUENTO_FK1" Association="Self.DESCRIPCION_DESCUENTO_FK1">
+      <End Role="TIPO_LICENCIAS" EntitySet="TIPO_LICENCIAS" />
+      <End Role="DESCRIPCION_DESCUENTO" EntitySet="DESCRIPCION_DESCUENTO" />
+    </AssociationSet>
+    <AssociationSet Name="IDENTIFICA_FK1" Association="Self.IDENTIFICA_FK1">
+      <End Role="TRAMITE" EntitySet="TRAMITE" />
+      <End Role="IDENTIFICA" EntitySet="IDENTIFICA" />
+    </AssociationSet>
+    <AssociationSet Name="IMGBIOMETRICOS_FK1" Association="Self.IMGBIOMETRICOS_FK1">
+      <End Role="BIOMETRICOS" EntitySet="BIOMETRICOS" />
+      <End Role="IMGBIOMETRICOS" EntitySet="IMGBIOMETRICOS" />
+    </AssociationSet>
+    <AssociationSet Name="IMGBIOMETRICOS_FK2" Association="Self.IMGBIOMETRICOS_FK2">
+      <End Role="TRAMITES" EntitySet="TRAMITES" />
+      <End Role="IMGBIOMETRICOS" EntitySet="IMGBIOMETRICOS" />
+    </AssociationSet>
+    <AssociationSet Name="NUMERO_FOLIO_FK1" Association="Self.NUMERO_FOLIO_FK1">
+      <End Role="TRAMITES" EntitySet="TRAMITES" />
+      <End Role="NUMERO_FOLIO" EntitySet="NUMERO_FOLIO" />
+    </AssociationSet>
+    <AssociationSet Name="SCANNER_FK1" Association="Self.SCANNER_FK1">
+      <End Role="DOCUMENTOS" EntitySet="DOCUMENTOS" />
+      <End Role="SCANNER" EntitySet="SCANNER" />
+    </AssociationSet>
+    <AssociationSet Name="SCANNER_FK2" Association="Self.SCANNER_FK2">
+      <End Role="TRAMITES" EntitySet="TRAMITES" />
+      <End Role="SCANNER" EntitySet="SCANNER" />
+    </AssociationSet>
+    <AssociationSet Name="TRAMITES_FK1" Association="Self.TRAMITES_FK1">
+      <End Role="CIUDADANO" EntitySet="CIUDADANO" />
+      <End Role="TRAMITES" EntitySet="TRAMITES" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
