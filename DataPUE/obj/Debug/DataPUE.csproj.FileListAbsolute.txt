@@ -2112,3 +2112,4 @@ C:\Users\DC-Desarrollo\Desktop\BiometricosCH\DataPUE\obj\Debug\DataPUE.csproj.Co
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\DataPUE\obj\Debug\DataPUE.csproj.CopyComplete
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\DataPUE\obj\Debug\DataTLX.dll
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\DataPUE\obj\Debug\DataTLX.pdb
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\DataPUE\bin\Debug\Entidades.dll.config

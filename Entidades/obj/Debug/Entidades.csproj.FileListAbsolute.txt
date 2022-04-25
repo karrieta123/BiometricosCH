@@ -275,3 +275,14 @@ C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.
 C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\obj\Debug\Entidades.dll
 C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\obj\Debug\Entidades.pdb
 C:\Users\Gerard-PC\Documents\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\bin\Debug\Entidades.dll
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\bin\Debug\Entidades.pdb
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\bin\Debug\System.Web.Providers.dll
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\obj\Debug\Entidades.dll
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Entidades\obj\Debug\Entidades.pdb

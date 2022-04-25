@@ -42,6 +42,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="1116760">
+      <assemblyIdentity name="EntityFramework" version="5.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>PoNKnbJ6KecCojr5W66/YqltD4tkc9jUL2AUPZPv3LU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="log4net.dll" size="304640">
       <assemblyIdentity name="log4net" version="1.2.15.0" publicKeyToken="669E0DDF0BB1AA2A" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -109,7 +121,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2h4afzoTI/WGmXG4rFiKgoqFFt+M2OAFxlXVxEurtA0=</dsig:DigestValue>
+        <dsig:DigestValue>xKV6r42xUBL+fwEsB+PmNasaZIjYt4qhb2aauNfTl7k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -302,13 +314,13 @@
       <dsig:DigestValue>T5u/Y7iiEIkblZFLms1gKhg6uiYrEYHHx5IJpyY68Qs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="TLXLicencia_ImprimeCard.exe.config" size="620">
+  <file name="TLXLicencia_ImprimeCard.exe.config" size="1087">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>fugw2XRMi+kLDGpsJN+tjo8foxkTbfskMaNfPMhytGI=</dsig:DigestValue>
+      <dsig:DigestValue>c258t4WCBrUtIVZA5jPXDexpaFBglzyfxyMdgcId688=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
