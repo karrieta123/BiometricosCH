@@ -760,3 +760,5 @@ C:\Users\DC-Desarrollo\Desktop\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\T
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\PUELicencia_ImprimeCard.csproj.CopyComplete
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.exe
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\PUELicencia_ImprimeCard\obj\Debug\TLXLicencia_ImprimeCard.pdb
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\EntityFramework.dll
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\PUELicencia_ImprimeCard\bin\Debug\EntityFramework.xml

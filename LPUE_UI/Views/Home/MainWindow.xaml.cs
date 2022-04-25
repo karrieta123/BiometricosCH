@@ -1,4 +1,5 @@
 ﻿using Entidades;
+using PUE.Views.Shared;
 using System;
 using System.Configuration;
 using System.Diagnostics;
@@ -136,13 +137,15 @@ namespace PUE_UI.Views.Home
         /// </summary>
         void loadMenu(String UserNameAuth)
         {
-            _ucMenu = new Shared.ucMenu();
-            _ucMenu.Width = this.Width;
-            _ucMenu.Height = this.MaxHeight;
+            //_ucMenu = new Shared.ucMenu();
+            //_ucMenu.Width = this.Width;
+            //_ucMenu.Height = this.MaxHeight;
 
-            _ucMenu.UserNameAuth = UserNameAuth;
-            _ucMenu.onMenuClick += new Shared.ucMenu.EventHandlerMenuClic(clicMenuEvent);
-            grdContent.Children.Add(_ucMenu);
+            //_ucMenu.UserNameAuth = UserNameAuth;
+            //_ucMenu.onMenuClick += new Shared.ucMenu.EventHandlerMenuClic(clicMenuEvent);
+            //grdContent.Children.Add(_ucMenu);
+            Busqueda bsq = new Busqueda();
+            bsq.Show();
         }
 
         /// <summary>

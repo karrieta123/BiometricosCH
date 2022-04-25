@@ -704,3 +704,5 @@ C:\Users\DC-Desarrollo\Desktop\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPl
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.csproj.CopyComplete
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.exe
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\sigPlusNET_wpfDemo1\obj\Debug\sigPlusNET_wpfDemo.pdb
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\sigPlusNET_wpfDemo1\bin\Debug\EntityFramework.dll
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\sigPlusNET_wpfDemo1\bin\Debug\EntityFramework.xml

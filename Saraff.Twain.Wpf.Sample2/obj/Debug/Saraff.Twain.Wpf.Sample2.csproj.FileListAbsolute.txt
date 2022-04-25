@@ -246,3 +246,4 @@ C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.csproj.CopyComplete
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.exe
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Saraff.Twain.Wpf.Sample2\obj\Debug\Saraff.Twain.Wpf.Sample2.pdb
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\Saraff.Twain.Wpf.Sample2\bin\Debug\Entidades.dll.config

@@ -240,3 +240,5 @@ C:\Users\DC-Desarrollo\Desktop\BiometricosCH\LPUE_UI\obj\Debug\Chihuahua.csproj.
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\LPUE_UI\obj\Debug\Chihuahua.csproj.CopyComplete
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\LPUE_UI\obj\Debug\PUE.exe
 C:\Users\DC-Desarrollo\Desktop\BiometricosCH\LPUE_UI\obj\Debug\PUE.pdb
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\LPUE_UI\obj\Debug\PUE.Views.Shared.Busqueda.resources
+C:\Users\DC-Desarrollo\Desktop\BiometricosCH\LPUE_UI\bin\Debug\Entidades.dll.config
